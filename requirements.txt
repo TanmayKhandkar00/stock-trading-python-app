@@ -1,3 +1,7 @@
 requests
 openai
 dotenv
+os
+collections
+time
+csv
